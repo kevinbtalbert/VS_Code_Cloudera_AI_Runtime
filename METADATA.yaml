@@ -1,0 +1,20 @@
+name: "VS Code on Cloudera AI"
+slug: "vscode-cloudera-ai"
+description: "Browser VS Code (code-server) custom ML runtime for Cloudera AI Workbench."
+catalog_classification:
+  - Developer Example
+launchable: true
+lifecycle_status: Active
+industry: General
+tags:
+  - vscode
+  - code-server
+  - cloudera-ai
+product_mapping:
+  - Cloudera Machine Learning
+publisher: cloudera
+source: Internal
+public_github_link: "https://github.com/kevinbtalbert/VS_Code_Cloudera_AI_Runtime"
+maintainer_name: "Kevin Talbert"
+date_created: "2026-09-28"
+date_updated: "2026-09-28"
