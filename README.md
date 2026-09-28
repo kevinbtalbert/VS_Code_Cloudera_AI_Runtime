@@ -112,8 +112,6 @@ flowchart LR
 | --- | --- |
 | `Dockerfile` | PBJ Workbench base, code-server install, Cloudera runtime labels and env |
 | `scripts/vscode-launch.sh` | `ml-runtime-editor` entrypoint: starts code-server |
-| `METADATA.yaml` | Catalog metadata for the Cloudera blueprint website |
-| `.dockerignore` | Docker build context exclusions |
 
 ## Prerequisites
 
@@ -128,8 +126,7 @@ Sizing follows normal CML **session** resources for Python workbench workloads. 
 
 | Deployment | Minimum |
 | --- | --- |
-| **Launchable / demo** | 2 vCPU, 8 GiB RAM, 10 GiB session storage (typical small dev session) |
-| **Production / team use** | Match your org’s CML session standards for Python 3.13 projects (scale with concurrent users and workload, not the editor alone) |
+| **Typical Development Session** | 2 vCPU, 4 GiB RAM |
 
 ## Documentation
 
