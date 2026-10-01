@@ -48,7 +48,7 @@ Teams on Cloudera AI Workbench often need a full IDE—multi-file editing, Git, 
    **Fast path** — use the published image:
 
    ```text
-   kevintalbert/vscode-runtime:latest
+   docker.io/kevintalbert/vscodeandclaude:1.0.0
    ```
 
    **Custom build** — when you need a different PBJ base tag or extra packages:
