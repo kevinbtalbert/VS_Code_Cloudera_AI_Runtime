@@ -22,7 +22,7 @@ This blueprint packages a **browser-based VS Code editor** as a Cloudera AI **cu
 
 ## Demo
 
-Recorded walkthrough: _coming soon._
+Recorded walkthrough: https://app.getreprise.com/present/Q6oxDZn
 
 
 ## Use Case
